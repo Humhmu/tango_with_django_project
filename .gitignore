@@ -136,6 +136,7 @@ ENV/
 env.bak/
 venv.bak/
 rangoenv
+.rangoenv
 
 # Spyder project settings
 .spyderproject
